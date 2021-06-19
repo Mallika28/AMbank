@@ -1,0 +1,35 @@
+.colorme {color:LightCoral;}
+.nav-bar > li:hover, .nav-bar > li a:hover  { color: LightCoral;}
+.nav-bar > li.active > a { }
+ul.flyout li a:hover, .nav-bar li ul li a:hover {color:LightCoral;}
+.flyout {border-top:2px solid LightCoral;}
+.sectiontitle {border-left: 4px solid LightCoral;}
+::-moz-selection{background:LightCoral;color:#fff;}
+::selection{background:LightCoral;color:#fff;}
+.ca-menu li:hover .ca-main {color: LightCoral;}
+.topborder { border-top:4px solid LightCoral;}
+.readmore {background:LightCoral;}
+ #subheader {background: LightCoral;border-top: 1px solid LightCoral; color: #fff;}
+ #subheader a {color: #eee;}
+ #subheader a:hover {color: #fff;}
+ .readmore {background:LightCoral;}
+ #testimonials blockquote cite {color:LightCoral;}
+ .tags {background:LightCoral;}
+ ul.pagination li.current a {background: LightCoral;}
+.saymore {color:LightCoral;}
+.submit {background:LightCoral;} 
+dl.tabs dd.active { border-bottom: 3px solid LightCoral;}
+ul.accordion > li.active {border-top: 3px solid LightCoral;}
+div.alert-box.default { background-color: LightCoral;}
+.slide {	margin: 0;	padding: 0;	border-top: solid 4px LightCoral;}
+.btn-slide {	background:LightCoral url(../../images/plus.png) no-repeat;}
+.btn-slide.active { background: LightCoral url(../../images/minus.png) no-repeat;}
+#footer {border-top:LightCoral 4px solid;}
+.back-top a:hover{background-color: LightCoral;}
+.sf-shadow ul {border-top:2px solid LightCoral;}
+.panel {border-left:4px solid LightCoral;}
+.colorbackground {background:LightCoral;}
+a.projectdetail { background: LightCoral;opacity:0.8;}
+a.projectdetail:hover { background: LightCoral;opacity:1.0;}
+#testimonials {border-left: solid 6px LightCoral;}
+.ei-title h2{background:LightCoral;} 
